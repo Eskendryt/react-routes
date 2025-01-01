@@ -2,9 +2,9 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Container, Row, Col } from "react-bootstrap";
 import Home from "./components/Home";
-import Features from "./components/Features";
-import Enterprise from "./components/Enterprise";
-import Pricing from "./components/Pricing";
+import Features from "./components/features";
+import Enterprise from "./components/enterprise";
+import Pricing from "./components/pricing";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
